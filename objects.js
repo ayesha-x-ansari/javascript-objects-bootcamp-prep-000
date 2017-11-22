@@ -1,6 +1,7 @@
 var playlist = {
   'Mariah Carey': 'Oh Holy Night',
-  Rihanna: 'Take a bow'
+  Rihanna: 'Take a bow',
+  Kanye: "Gold Digger"}
 }
 
 var artistName = 'Phil Ochs'
@@ -12,6 +13,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
 }
 
 function  removeFromPlaylist(playlist, artistName) {
-  delete playlist.rihanna
+  delete playlist.Kanye
   return playlist
 }
