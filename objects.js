@@ -1,7 +1,7 @@
 var playlist = {
   'Mariah Carey': 'Oh Holy Night',
   Rihanna: 'Take a bow',
-  Kanye: "Gold Digger"}
+  Kanye: "Gold Digger"
 }
 
 var artistName = 'Phil Ochs'
